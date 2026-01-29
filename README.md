@@ -135,18 +135,6 @@
 </div>
 
 ### 📊 GitHub Streak & Metrics
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=themehakcodes&theme=dracula&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=themehakcodes&theme=dracula&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=themehakcodes&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</div>
-
 ###
 
 <div align="left">
@@ -170,8 +158,4 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/themehakcodes/count.svg?"  />
-</div>
 
